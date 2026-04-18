@@ -1,0 +1,16 @@
+entreprise,ville,secteur,taille,technologies,profils_recherches,stage_disponible,annee_creation
+Vermeg,Tunis,Fintech,Grande,Python;SQL;BI,Data Analyst;BI Developer,Oui,1999
+Telnet,Tunis,Consulting IT,Grande,Java;Python;SQL,Data Engineer;BI Consultant,Oui,2000
+Sofrecom,Tunis,Telecom,Grande,SQL;Power BI;Python,Data Analyst;BI Developer,Oui,1999
+Proxym,Tunis,Software,Moyenne,Python;SQL;React,Data Analyst;Dev Backend,Oui,2005
+Linedata,Tunis,Fintech,Grande,SQL;Python;Tableau,BI Developer;Data Analyst,Oui,2000
+Esprit,Tunis,Education Tech,Moyenne,Python;SQL;ML,Data Scientist;BI Analyst,Non,2003
+Cynapsys,Tunis,Consulting IT,Moyenne,SQL;Power BI;Java,BI Consultant;Data Analyst,Oui,2011
+Talan,Tunis,Consulting IT,Grande,Python;SQL;Power BI,Data Analyst;BI Developer,Oui,2009
+Focus Corp,Sfax,Software,Moyenne,Java;SQL;Python,Dev Backend;Data Analyst,Oui,2008
+Wevioo,Tunis,Consulting IT,Grande,SQL;Tableau;Python,BI Developer;Data Engineer,Oui,2005
+Intelcia,Tunis,BPO Tech,Grande,SQL;Power BI,Data Analyst;BI Consultant,Oui,2000
+Sonatec,Sfax,Software,Petite,Java;SQL,Dev Backend;Data Analyst,Non,2010
+Digital Surf,Sousse,Software,Petite,Python;SQL;HTML,Data Analyst;Dev Full Stack,Oui,2015
+Carthage Labs,Tunis,AI & Data,Petite,Python;ML;SQL,Data Scientist;BI Analyst,Oui,2018
+Ooredoo Tunisia,Tunis,Telecom,Grande,SQL;Power BI;Python,Data Analyst;BI Developer,Oui,2002
