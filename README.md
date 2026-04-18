@@ -13,16 +13,6 @@ Données collectées sur 15 entreprises tech tunisiennes réelles.
 - Analyse exploratoire de données (EDA)
 - Rédaction d'un rapport structuré avec recommandations
 
-## Structure du projet
-````
-tunisia-tech-market-study/
-├── data/
-│   └── tunisia_tech_companies.csv   ← dataset
-├── analysis.ipynb                   ← analyse Python
-├── rapport.md                       ← rapport & recommandations
-└── README.md
-````
-
 ## Résultats clés
 - SQL et Python sont les technologies les plus demandées
 - Le Consulting IT concentre le plus d'opportunités BI
